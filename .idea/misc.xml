@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.129" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/drawable/edit_text.xml" value="0.187" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.129" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/drawable/red_but.xml" value="0.3675" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/drawable/white_but.xml" value="0.187" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/layout/activity_patch.xml" value="0.22" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/layout/activity_signin.xml" value="0.25" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/layout/activity_tool_bar.xml" value="0.2338082901554404" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/layout/character_item.xml" value="0.33" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/layout/frame_item.xml" value="0.25" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/layout/frames_item.xml" value="0.5" />
+        <entry key="..\:/Projects/WorldCinema2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.129" />
+        <entry key="..\:/Projects/app/src/main/res/drawable/edit_text.xml" value="0.187" />
+        <entry key="..\:/Projects/app/src/main/res/drawable/red_but.xml" value="0.187" />
+        <entry key="..\:/Projects/app/src/main/res/drawable/white_but.xml" value="0.187" />
+        <entry key="..\:/Projects/app/src/main/res/layout/activity_login.xml" value="0.17806484295845998" />
+        <entry key="..\:/Projects/app/src/main/res/layout/activity_main.xml" value="0.1762917933130699" />
+        <entry key="..\:/Projects/app/src/main/res/layout/activity_signin.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
